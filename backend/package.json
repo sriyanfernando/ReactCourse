@@ -16,7 +16,7 @@
     "express-fileupload": "^1.1.6",
     "jsonwebtoken": "^8.5.1",
     "mongoose": "^5.9.5",
-    "recharts": "^1.8.5"
+    "recharts": "^2.1.14"
   },
   "devDependencies": {
     "nodemon": "^2.0.2"
